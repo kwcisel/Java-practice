@@ -19,8 +19,8 @@ public class Zadanie8_1{
 		
 		public void show(){
 		double pow = bok * bok;
-		System.out.println("PP:" + String.format("%.2f",pow));
-		System.out.println("OBJ:" + String.format("%.2f",(pow*bok)));
+		System.out.println("Powierzchnia:" + String.format("%.2f",pow));
+		System.out.println("Objetosc:" + String.format("%.2f",(pow*bok)));
 		}
 	
 	}

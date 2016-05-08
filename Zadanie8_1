@@ -1,4 +1,4 @@
-class Zadanie8_1{
+public class Zadanie8_1{
 	
 	public static void main(String[] args){
 		//Przykład 1

@@ -1,6 +1,3 @@
-package zadania;
-
-//import library.*;
 
 public class Main {
 

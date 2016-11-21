@@ -1,4 +1,3 @@
-package zadania;
 
 public class Walec {
 

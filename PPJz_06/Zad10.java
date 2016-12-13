@@ -1,4 +1,3 @@
-package zadania;
 
 public class Zad10 {
 
@@ -47,7 +46,7 @@ public class Zad10 {
 		for (int i = 0; i < sumsRow.length; i++) {
 			for (int j = 0; j < sumsCol.length; j++) {
 				if (sumsRow[i] == sumsCol[j]) {
-					System.out.println("Suma wiersza " + i + " jest równa sumie kolumny " + j + " i wynosi " + sumsRow[i] + ".");
+					System.out.println("Suma wiersza " + i + " jest rÃ³wna sumie kolumny " + j + " i wynosi " + sumsRow[i] + ".");
 				}
 			}
 		}

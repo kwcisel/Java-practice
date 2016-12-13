@@ -1,4 +1,3 @@
-package zadania;
 
 public class Zad8 {
 
@@ -8,7 +7,7 @@ public class Zad8 {
 		int x = 4;
 		long y = x * 4 - x++;
 		if (y < 10)
-			System.out.println("za ma³o");
+			System.out.println("za maÅ‚o");
 		else
 			System.out.println("w sam raz");
 
